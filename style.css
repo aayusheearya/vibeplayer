@@ -293,12 +293,12 @@ input[type="range"]::-webkit-slider-thumb {
         flex-direction: column; 
         align-items: center; 
         width: 100%; 
-        margin-top: 5px; 
+        margin-top: 20px; 
     }
 
     .seekbar {
         width: 70%; /* Adjusted width for better fit */
-        margin: 5px 0; 
+        margin: 15px 0; 
     }
 
     .controls {
@@ -306,11 +306,11 @@ input[type="range"]::-webkit-slider-thumb {
         justify-content: space-between; 
         align-items: center; 
         width: 100%; 
-        margin: 8px 0; 
+        margin: 6px 0; 
     }
 
     .controls button {
-        font-size: 11px; 
+        font-size: 10px; 
         padding: 2px; 
     }
 
